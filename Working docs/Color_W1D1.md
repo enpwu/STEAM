@@ -43,13 +43,9 @@
 > 教具
 >
 > - 蜡笔
->
 > - 一张A1纸张的大表格
->
 > - 不同形状，不同深浅的红、黄、蓝积木块
->
->   ​
->
+
 > 内容
 >
 > - 让孩子命名自己身上穿的颜色
@@ -59,18 +55,15 @@
 >   - 不同角落分别什么颜色最多
 >   - 什么角落绿色最多
 
-​
+
 
 #### 环节3: 探索游戏 －－ 10分钟
 
 > 教具
 >
 > - 绘画纸
->
 > - 蜡笔
->
->   ​
->
+
 > 内容
 >
 > - 让孩子用最喜欢的颜色画画，或者写自己的名字
@@ -90,83 +83,79 @@
 
 #### 组1 －－ 阅读中心
 
-颜色书目
+> 颜色书目
+>
+> - Hoban, Tana. Is It Red? Is It Yellow? Is It Blue?
+> - Hoban, Tana. Colors Everywhere
+> - Katz, Karen. The Colors of Us
+> - Walsh, Ellen Stoll. Mouse Paint
+> - Lionni, Leo. Little Blue and Little Yellow
+> - Weber, Belinda. Animal Disguises
+> - Lionni, Leo. A Color of His Own
+> - Shahan, Sherry. Spicy Hot Colors
 
-- Hoban, Tana. Is It Red? Is It Yellow? Is It Blue?
-- Hoban, Tana. Colors Everywhere
-- Katz, Karen. The Colors of Us
-- Walsh, Ellen Stoll. Mouse Paint
-- Lionni, Leo. Little Blue and Little Yellow
-- Weber, Belinda. Animal Disguises
-- Lionni, Leo. A Color of His Own
-- Shahan, Sherry. Spicy Hot Colors
-
-扩展阅读
-
-- Gonzalez, Maya Christina. My Colors, My World/Mis colores, mi mundo
-- Kleven, Elisa. The Lion and the Little Red Bird
-- Luján, Jorge and Grobler, Piet. Colors! Colores!
-- Swinburne, Stephen R. What Color is Nature?
-- Thong, Roseanne. Red Is a Dragon
-
+> 扩展阅读
+>
+> - Gonzalez, Maya Christina. My Colors, My World/Mis colores, mi mundo
+> - Kleven, Elisa. The Lion and the Little Red Bird
+> - Luján, Jorge and Grobler, Piet. Colors! Colores!
+> - Swinburne, Stephen R. What Color is Nature?
+> - Thong, Roseanne. Red Is a Dragon
 
 
 
 #### 组2 －－ 绘画
 
-教具
+> 教具
+>
+> - 彩蛋颜料，或手指画颜料（红、蓝、黄、黑、白）
+> - 白和彩色纸张，有构成轮廓的白色纸张
+> - 画笔，塑料刀，木棒
 
-- 彩蛋颜料，或手指画颜料（红、蓝、黄、黑、白）
-- 白和彩色纸张，有构成轮廓的白色纸张
-- 画笔，塑料刀，木棒
-
-引导孩子用一种颜色，以及白色，绘画。（用不同明度）
+> 引导孩子用一种颜色，以及白色，绘画。（用不同明度）
 
 
 
 #### 组3 －－ 食用色素
 
-教具
+> 教具
+>
+> - 食用色素: 红、黄、蓝
+> - 塑料瓶：盛有透明干净的纯净水
+> - 白色调料盘（或制冰盘）：12格
+> - 吸管，或滴管
+> - 干净水（在塑料容器中）
+> - 可选：clear plastic egg cartons to mix food coloring in and a light table for shining light through the food coloring in the cartons
 
-- 食用色素: 红、黄、蓝
-- 塑料瓶：盛有透明干净的纯净水
-- 白色调料盘（或制冰盘）：12格
-- 吸管，或滴管
-- 干净水（在塑料容器中）
-- 可选：clear plastic egg cartons to mix food coloring in and a light table for shining light through the food coloring in the cartons
-
-引导孩子将色素倒入瓶子中，用滴管在调色盘中用一种颜色调制12种明度
+> 引导孩子将色素倒入瓶子中，用滴管在调色盘中用一种颜色调制12种明度
 
 
 
 #### 组4 －－ 颜色整理
 
-教具
+> 教具
+>
+> - 蜡笔
+> - 小积木
+> - 油漆板
+> - 纽扣
+> - 面包塑料包装卡扣
+> - 牛奶瓶盖
+> - 小玩偶和其他有颜色的东西
+> - 孩子从外面采集进来的东西：鹅卵石、树叶、树枝
+> - 纸碗、干净塑料杯、塑料容器、鞋盒和盖子、塑料袋
+> - 绘图纸，纸盘
+> - 胶和胶带
 
-- 蜡笔
-- 小积木
-- 油漆板
-- 纽扣
-- 面包塑料包装卡扣
-- 牛奶瓶盖
-- 小玩偶和其他有颜色的东西
-- 孩子从外面采集进来的东西：鹅卵石、树叶、树枝
-- 纸碗、干净塑料杯、塑料容器、鞋盒和盖子、塑料袋
-- 绘图纸，纸盘
-- 胶和胶带
-
-
-
-内容
-
-- 蜡笔、纽扣、油漆板，用以下方式从浅到深摆放
-  - 按颜色和明度：例如，所有绿色放在一起，按照明度从浅到深排列
-  - 组合：例如，粉色、白色、黄色（鲜亮颜色）放在一起，棕色、黑色（深色）放在一起，并且按明度排列，不同颜色同一明度放在一起
-- 积木
-  - 用同一颜色搭建一样东西
-  - 用两种颜色间隔搭建一样东西
-- 树叶、鹅卵石、树枝：按颜色或形状分类，然后贴在纸盘上
-
+> 内容
+>
+> - 蜡笔、纽扣、油漆板，用以下方式从浅到深摆放
+>   - 按颜色和明度：例如，所有绿色放在一起，按照明度从浅到深排列
+>   - 组合：例如，粉色、白色、黄色（鲜亮颜色）放在一起，棕色、黑色（深色）放在一起，并且按明度排列，不同颜色同一明度放在一起
+> - 积木
+>   - 用同一颜色搭建一样东西
+>   - 用两种颜色间隔搭建一样东西
+> - 树叶、鹅卵石、树枝：按颜色或形状分类，然后贴在纸盘上
 
 
 
@@ -176,49 +165,42 @@
 
 教具
 
-- 书写板和铅笔
-- 记录纸
-- 蜡笔
-
+> - 书写板和铅笔
+> - 记录纸
+> - 蜡笔
 
 
 科学概念
 
-- 存在许多不同颜色
-
+> - 存在许多不同颜色
 
 
 词汇
 
-- 鼓励孩子说出颜色的名字，和描述性的词汇
-- 科学过程词汇，比如描述(describe)，对比(compare)，观察(observe)，预测(predict)
-- 鼓励孩子通过自己的观察来描述颜色，例如“偏紫的蓝色”，“发红的棕色”等等
-
+> - 鼓励孩子说出颜色的名字，和描述性的词汇
+> - 科学过程词汇，比如描述(describe)，对比(compare)，观察(observe)，预测(predict)
+> - 鼓励孩子通过自己的观察来描述颜色，例如“偏紫的蓝色”，“发红的棕色”等等
 
 
 内容
 
-- 出发前，让孩子们讨论他们有可能看到的颜色。将以下预测写在记录板上
-  - 你觉得会在户外发现哪些颜色？
-  - 你觉得你会看到什么颜色最多？
-- 探索户外颜色时，问孩子
-  - 你看到哪些东西的颜色是绿色（或棕色、银色等）？
-  - 你如何描述这些颜色？
-
+> - 出发前，让孩子们讨论他们有可能看到的颜色。将以下预测写在记录板上
+> - 你觉得会在户外发现哪些颜色？
+> - 你觉得你会看到什么颜色最多？
+> - 探索户外颜色时，问孩子
+>   - 你看到哪些东西的颜色是绿色（或棕色、银色等）？
+>   - 你如何描述这些颜色？
 
 
 总结分享
 
-- 回顾出发前的记录
+> - 回顾出发前的记录
+>   - 孩子们是否看到了他们所有预测到的颜色？
+> - 问
+>   - 什么颜色最多并且大家都看到了？
+>   - 什么颜色只有一小部分人看到了，为什么会这样？
 
-  - 孩子们是否看到了他们所有预测到的颜色？
 
-- 问
-
-  - 什么颜色最多并且大家都看到了？
-  - 什么颜色只有一小部分人看到了，为什么会这样？
-
-  ​
 
 ### 结束圆圈
 
