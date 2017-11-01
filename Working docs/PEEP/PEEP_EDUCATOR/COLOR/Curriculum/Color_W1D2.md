@@ -12,7 +12,7 @@
 - 科学语言
   - ​
 - 综合能力 `L, M, S, R`
-   - 参考：[HeadStart综合能力频谱衡量表](STEAM/Working docs/PEEP/PEEP_EDUCATOR/COLOR/HeadStart综合能力频谱衡量表.xlsx)
+   - 参考：STEAM/Working docs/PEEP/PEEP_EDUCATOR/COLOR/HeadStart综合能力频谱衡量表.xlsx
 
 
 
