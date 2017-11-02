@@ -1,18 +1,17 @@
 目录
 
-[TOC]
-
 ## 教学目的
 
 - 科学概念
-  - 颜色有很多种
-  - 单一颜色可以有不同的明度，从浅至深
+  - 颜色有很多种, 能叫出不同颜色的名称
+  - 单一颜色可以有不同的明度，从浅至深
 - 词汇
-  - ​
+  - 明度, 亮, 暗, 浓, 深, 浅, 淡
 - 科学语言
-  - ​
+  - 混合, 稀释, 观察, 描述, 比较, 对比, 预测, 总结
 - 综合能力 `L, M, S, R`
-   - 参考：STEAM/Working docs/PEEP/PEEP_EDUCATOR/COLOR/HeadStart综合能力频谱衡量表.xlsx
+   - L语言理解和表达、M模式比较、S试验观察总结、R联系推理
+   > 参考：STEAM/Working docs/PEEP/PEEP_EDUCATOR/COLOR/HeadStart综合能力频谱衡量表.xlsx
 
 
 
