@@ -11,7 +11,7 @@
   - 混合, 稀释, 观察, 描述, 比较, 对比, 预测, 总结
 - 综合能力 `L, M, S, R`
    - L语言理解和表达、M模式比较、S试验观察总结、R联系推理
-   > 参考：STEAM/Working docs/PEEP/PEEP_EDUCATOR/COLOR/HeadStart综合能力频谱衡量表.xlsx
+> 参考：STEAM/Working docs/PEEP/PEEP_EDUCATOR/COLOR/HeadStart综合能力频谱衡量表.xlsx
 
 
 
